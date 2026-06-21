@@ -6,8 +6,8 @@
   </a>
 
   <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-121212?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+    <a href="divyanshagarwal07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-121212?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/divyansh-agarwal-947346325"><img src="https://img.shields.io/badge/LinkedIn-Connect-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
   </p>
 </div>
 
